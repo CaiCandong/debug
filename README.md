@@ -17,9 +17,9 @@
 #### test：6 a
 
 #### test：6 !b
-#### test：ad # df
-#### test：ad # df
-#### test：ad #23 df 2*/*
 
+#### Anchor in markdown
 
+#### a_b_c
 
+#### a-b-c
